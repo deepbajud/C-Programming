@@ -23,5 +23,6 @@ num_result, denom_result ;
 
 	printf("The result of %d / %d  + %d / %d  is: %d / %d \n", numerator1,denominator1, numerator2, denominator2,num_result,denom_result);
 	return 0;
+
 }
 
